@@ -1,0 +1,73 @@
+{
+  "watch": "开",
+  "scheduled_task_interval": 100,
+  "watch_list": "1",
+  "group_rules": {
+    "1": {
+      "name": "蜀将何在",
+      "completedTimes": 30,
+      "daka_time": 18,
+      "rate": 0.9,
+      "pupil": "1+2+3+4"
+    },
+    "2": {
+      "name": "枣起",
+      "completedTimes": 100,
+      "daka_time": 9,
+      "pupil": "1+2+3+4+5",
+      "rate": 1
+    },
+    "3": {
+      "name": "会客厅",
+      "completedTimes": 40,
+      "daka_time": -1,
+      "pupil": "1+2+3+4",
+      "rate": 0.98
+    },
+    "4": {
+      "name": "冲冲冲",
+      "completedTimes": 85,
+      "daka_time": -1,
+      "pupil": "1+2+3+4",
+      "rate": 0.99
+    },
+    "5": {
+      "name": "必胜",
+      "completedTimes": 100,
+      "daka_time": 14,
+      "pupil": "1+2+3+4",
+      "rate": 1
+    },
+    "6": {
+      "name": "渡江",
+      "completedTimes": 95,
+      "daka_time": -1,
+      "pupil": "1+2+3+4",
+      "rate": 1
+    },
+    "7": {
+        "name": "月亮派对",
+        "completedTimes": 50,
+      "daka_time": -1,
+      "pupil": "1+2+3+4",
+      "rate": 0.9
+    },
+    "8": {
+      "name": "扶光",
+        "completedTimes": 30,
+      "daka_time": -1,
+      "pupil": "1+2+3+4",
+      "rate": 0.9
+    },
+    "9": {
+      "name": "一束花",
+        "completedTimes": 30,
+        "daka_time": 21,
+      "pupil": "1+2+3+4",
+      "rate": 0.9
+    }
+  }
+
+
+
+}

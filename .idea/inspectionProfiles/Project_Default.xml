@@ -1,0 +1,29 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="16">
+            <item index="0" class="java.lang.String" itemvalue="distro" />
+            <item index="1" class="java.lang.String" itemvalue="service-identity" />
+            <item index="2" class="java.lang.String" itemvalue="uWSGI" />
+            <item index="3" class="java.lang.String" itemvalue="pexpect" />
+            <item index="4" class="java.lang.String" itemvalue="PyGObject" />
+            <item index="5" class="java.lang.String" itemvalue="sqlparse" />
+            <item index="6" class="java.lang.String" itemvalue="ssh-import-id" />
+            <item index="7" class="java.lang.String" itemvalue="autobahn" />
+            <item index="8" class="java.lang.String" itemvalue="channels" />
+            <item index="9" class="java.lang.String" itemvalue="Pygments" />
+            <item index="10" class="java.lang.String" itemvalue="Django" />
+            <item index="11" class="java.lang.String" itemvalue="certifi" />
+            <item index="12" class="java.lang.String" itemvalue="prompt-toolkit" />
+            <item index="13" class="java.lang.String" itemvalue="txaio" />
+            <item index="14" class="java.lang.String" itemvalue="dbus-python" />
+            <item index="15" class="java.lang.String" itemvalue="daphne" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
