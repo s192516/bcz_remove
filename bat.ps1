@@ -1,0 +1,1 @@
+Get-Content -Path "info.log" -Tail 10 -Wait
