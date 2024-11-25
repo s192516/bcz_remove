@@ -1,70 +1,89 @@
 {
   "watch": "开",
-  "scheduled_task_interval": 100,
-  "watch_list": "1",
+  "scheduled_task_interval": 5,
+  "watch_list": "10",
+  "host": "127.0.0.1",
+  "port": 8840,
+  "database_path": "data.db",
+  "main_token": "oVrf9AnYyFI4q%2B40bV0IrA%3D%3D",
+  "output_file": "小班数据.xlsx",
+  "blackID_file": "王者联盟黑名单正式版.xlsx",
+  "auto_purge_list": "自动筛选人员名单.xlsx",
+  "whiteID_file": "白名单.xlsx",
+  "daily_record": "59 23 * * *",
+  "daily_verify": "00 04 * * *",
+  "cache_second": 600,
+  "real_time_cache_favorite": false,
   "group_rules": {
     "1": {
       "name": "蜀将何在",
-      "completedTimes": 30,
+      "completedTimes":100,
       "daka_time": 18,
-      "rate": 0.9,
-      "pupil": "1+2+3+4"
+        "rate": 1,
+        "pupil": "1+2+3+4"
     },
     "2": {
       "name": "枣起",
       "completedTimes": 100,
       "daka_time": 9,
-      "pupil": "1+2+3+4+5",
-      "rate": 1
+      "rate": 1,
+      "pupil": "1+2+3+4+5"
     },
     "3": {
       "name": "会客厅",
-      "completedTimes": 40,
-      "daka_time": -1,
-      "pupil": "1+2+3+4",
-      "rate": 0.98
+      "completedTimes": 21,
+      "daka_time": 9,
+      "rate": 1,
+      "pupil": "1+2+3+4"
     },
     "4": {
       "name": "冲冲冲",
-      "completedTimes": 85,
-      "daka_time": -1,
-      "pupil": "1+2+3+4",
-      "rate": 0.99
+      "completedTimes": 80,
+      "daka_time": 21,
+      "rate": 1,
+      "pupil": "1+2+3+4+5"
     },
     "5": {
       "name": "必胜",
       "completedTimes": 100,
-      "daka_time": 14,
-      "pupil": "1+2+3+4",
-      "rate": 1
+      "daka_time": 13,
+      "rate": 1,
+      "pupil": "1+2+3+4+5"
     },
     "6": {
       "name": "渡江",
-      "completedTimes": 95,
-      "daka_time": -1,
-      "pupil": "1+2+3+4",
-      "rate": 1
+      "completedTimes": 98,
+      "daka_time": 18,
+      "rate": 1,
+      "pupil": "1+2+3+4+5"
     },
     "7": {
         "name": "月亮派对",
         "completedTimes": 50,
       "daka_time": -1,
-      "pupil": "1+2+3+4",
-      "rate": 0.9
+      "rate": 0.9,
+      "pupil": "1+2+3+4"
     },
     "8": {
       "name": "扶光",
         "completedTimes": 30,
       "daka_time": -1,
-      "pupil": "1+2+3+4",
-      "rate": 0.9
+      "rate": 0.9,
+      "pupil": "1+2+3+4"
     },
     "9": {
       "name": "一束花",
         "completedTimes": 30,
         "daka_time": 21,
-      "pupil": "1+2+3+4",
-      "rate": 0.9
+      "rate": 0.9,
+      "pupil": "1+2+3+4"
+    },
+    "10": {
+      "name": "智班",
+      "completedTimes": 30,
+      "daka_time": 21,
+      "rate": 0.9,
+      "pupil": "1+2+3+4"
     }
   }
 
